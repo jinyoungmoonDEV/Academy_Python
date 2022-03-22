@@ -1,0 +1,16 @@
+- 폰노이만구조
+
+- 아나콘다 프롬포트 명령어
+cd	
+dir
+conda activate ...
+conda deactivate ...
+conda create -n...
+conda create -n ... python=3.9
+conda python -V
+conda remove -n ... --all
+conda list
+conda env list
+conda install jupyterlab
+jupyter-lab --no-browser ...
+jupyter-notebook --no-browser ...
